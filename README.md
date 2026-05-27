@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Logo -->
-<img src="https://raw.githubusercontent.com/zypil/bodyforge/main/assets/icon.jpg" width="120" height="120" alt="BodyForge Logo">
+<img src="https://raw.githubusercontent.com/zypil/BodyForge/main/icon.jpg" width="120" height="120" alt="BodyForge Logo">
 
 <h1>BodyForge</h1>
 <p><strong>Physique Architect</strong> — Advanced BMI Analysis & Body Composition Tracker</p>
