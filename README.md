@@ -222,6 +222,6 @@ Only requirement: include the original copyright notice.
 
 <br>
 
-<sub>Built with precision by <a href="https://github.com/itzfilzz">@ItzFilzz</a></sub>
+<sub>Built with precision by <a href="https://github.com/zypil">@zypil</a></sub>
 
 </div>
